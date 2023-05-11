@@ -35,18 +35,25 @@
     justify-content: space-between;
     width:100%;
 }
+
 .coin-price{
-    width: 110px;
+    width: 50%;
+}
+.row{
+    margin-left: 13rem;
+    margin-right:10rem;
+    display: flex;
+    justify-content: space-around;
 }
 .coin-volume{
-    width: 230px;
+    width: 200px;
 }
 .coin-marketcap{
     
     width: 155px;
 }
 .coin-percent{
-    width: 100%;
+    width: 70%;
 }
 .red{
     color: red;
